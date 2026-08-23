@@ -3,7 +3,7 @@
 ### Backend-focused Web Developer
 
 I build web applications with a focus on **Python and Django**, from content platforms to payment infrastructure that solves real-world, local problems.
-I'm also a dental student, combining my background in dentistry with my passion for software development.
+I'm also a **dental student**, combining my background in dentistry with my passion for software development.
 
 ## 🚀 What I've been working on
 
