@@ -11,20 +11,21 @@ I'm also a **dental student**, combining my background in dentistry with my pass
 
 * ✍️ [**Bitra Blog Platform**](https://github.com/AmirMohammadAdhami/Bitra-Blog-Platform) — A modern technology blog platform with authentication, article publishing, categories, tags, comments, likes, bookmarks, search, and REST APIs.
 
-* 🦷 [**Dental Clinic**](https://github.com/AmirMohammadAdhami/Dental-Clinic) — A web platform for a dental clinic. **Currently in development.**
+* 🦷 [**Dental Clinic**](https://github.com/AmirMohammadAdhami/Dental-Clinic) — A web platform for a dental clinic with REST APIs, server-side rendering, SEO optimization, caching, Celery, and appointment management. Currently in development.
 
 ## 🛠️ Tech I work with
 
-`Python` `Django` `Django REST Framework` `JavaScript` `HTML` `CSS` `SQLite` `PostgreSQL` `Docker` `Git`
+`Python` `Django` `Django REST Framework` `JavaScript` `HTML` `CSS` `SQLite` `PostgreSQL` `Redis` `Celery` `Docker` `Git`
 
 ## 📚 Currently learning
 
-* Celery
-* Caching with Django-Redis
+* Advanced Django caching with Redis
+* Celery & background task processing
+* Backend performance optimization
 
 ## 🎯 What I'm interested in
 
-Backend development, web applications, APIs, automation, and building software that solves practical problems.
+Backend development, web applications, APIs, performance optimization, automation, and building software that solves practical problems.
 
 ## 🤝 Let's connect
 
